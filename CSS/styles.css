@@ -470,7 +470,7 @@ section.skills .item:nth-child(2) .progress-bar .progress{
 }
 
 section.skills .item:nth-child(3) .progress-bar .progress {
-    width: 69%;
+    width: 20%;
 }
 /*END of front-end**/
 
@@ -549,12 +549,12 @@ section.skills .item2 .progress-bar2 {
 
 section.skills .item2 .progress-bar2 .progress2 {
     height: 100%;
-    width: 46%;
+    width: 80%;
     background: var(--color-primary);
 }
 
 section.skills .item2:nth-child(2) .progress-bar2 .progress2 {
-    width: 30%;
+    width: 45%;
 }
 /*END of back-end**/
 
